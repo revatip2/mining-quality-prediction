@@ -1,4 +1,4 @@
-# mining-quality-prediction
+# Mining Quality Prediction
 
 Predict the percentage of Silica Concentrate in an Iron Ore Concentrate to improve Mining outputs
 
